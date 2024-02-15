@@ -1,0 +1,52 @@
+body{
+    background-color: ivory;
+    width: 800px;
+    margin: 0 auto;
+}
+
+h2{
+    background-color: rgb(168, 85, 168);
+    color: white;
+    border-bottom: 6px solid rgb(233, 186, 231);
+    padding: 6px 12px 0 12px;
+    margin-bottom: 0;
+}
+
+h1{
+    font-size: 3em;
+    background-color: #228b22;
+    color: ivory;
+    margin: 0;
+    padding: 16px;
+}
+
+.box {
+    background-color: #deb887;
+    padding: 12px;
+    border-radius: 0 0 16px 16px;
+}
+
+nav{
+    background-color: darkgreen;
+    padding: 0 16px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40px;
+}
+
+nav a {
+    color: ivory;
+}
+
+nav a hover {
+    color: rgb(8, 143, 44);
+    background-color: rgb(186,157,248);
+}
+
+
